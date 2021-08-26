@@ -2,10 +2,11 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at QR Code Scanner, how QR Code Scanner uses it, and what choices you have.
-QR Code Scanner built the QR Code Scanner app as a free app. This SERVICE is provided by QR Code Scanner at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at , how Topgros uses it, and what choices you have.
+Topgros built the Topgros app as a free app. This SERVICE is provided by Topgros at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+
 
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
@@ -43,4 +44,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: milke.johannes@gmail.com 
+Email: topgros0@gmail.com 
